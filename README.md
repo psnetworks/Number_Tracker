@@ -1,3 +1,3 @@
 # Number_Tracker
-###Dependencies
+### Dependencies
 * [BeatuifulSoup](https://pypi.org/project/beautifulsoup4/)
