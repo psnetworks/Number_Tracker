@@ -1,8 +1,8 @@
 # Number_Tracker
 ### Prerequisites 
 * [BeatuifulSoup](https://pypi.org/project/beautifulsoup4/)
-* [Requests](https://pypi.org/project/requests/)
-* [re](https://docs.python.org/3/library/re.html)
+* [Requests](https://pypi.org/project/requests/)(pre-installed)
+* [re](https://docs.python.org/3/library/re.html)(pre-installed)
 
 ### Programming Language
 * [Python 3.x](https://www.python.org/)
