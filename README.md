@@ -14,4 +14,4 @@ apt install python3
 pip3 install beautifulsoup4
 ```
 ## Desclaimer
-The misuse of the information gather from this tool can result in criminal charges brought against the persons in question. The authors of this tool will not be held responsible in the event any criminal charges be brought against any individuals misusing the information in this tool to break the law.
+The misuse of the information gathered from this tool can result in criminal charges brought against the persons in question. The authors of this tool will not be held responsible in the event any criminal charges be brought against any individuals misusing the information in this tool to break the law.
