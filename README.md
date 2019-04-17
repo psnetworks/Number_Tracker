@@ -1,3 +1,5 @@
+DON'T USE IT TODAY BECAUSE THIS WILL NOT WORK.THERE ARE SOME INTERNAL ISSUES AND IAM SOLVING IT.
+
 # Number_Tracker
 ### Prerequisites 
 * [BeatuifulSoup](https://pypi.org/project/beautifulsoup4/)
