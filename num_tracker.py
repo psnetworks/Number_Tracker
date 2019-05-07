@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import re
+import subprocess
 def banner():
     print('''\033[1;32;48m
 db   db   j88D   .o88b. db   dD d8888b. d8888b.
@@ -40,6 +41,11 @@ def is_num_valid(number):
     return True if re.findall('[0-9]{11,11}',number) else False
 
 def main():
+    try:
+        subprocess.call('clear',shell=True)
+    except:
+        subprocess.call('cls',shell=True)
+
     banner()
     connect_to_NADRA()
     while True:
