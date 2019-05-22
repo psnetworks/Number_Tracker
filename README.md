@@ -3,7 +3,7 @@
 * [BeatuifulSoup](https://pypi.org/project/beautifulsoup4/)
 * [Requests](https://pypi.org/project/requests/)  (pre-installed)
 * [re](https://docs.python.org/3/library/re.html) (pre-installed)
-
+* [prettytable](https://pypi.org/project/PrettyTable/) (program will not force you to install it because it is not necessary.)
 ### Programming Language
 * [Python 3.x](https://www.python.org/)
 ## Quick introduction
